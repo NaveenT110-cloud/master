@@ -1,2 +1,2 @@
-FROM Naveen/master
+FROM hshar/webapp
 ADD . /var/www/html
